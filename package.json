@@ -1,0 +1,21 @@
+{
+  "name": "exchange-rate",
+  "version": "1.0.0",
+  "description": "exchange rate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Machaidze",
+  "license": "ISC",
+  "dependencies": {
+    "@everapi/currencyapi-js": "^1.0.6",
+    "body-parser": "^1.20.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "git": "^0.1.5",
+    "jquery": "^3.6.3",
+    "jsdom": "^21.1.0",
+    "request": "^2.88.2"
+  }
+}

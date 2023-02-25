@@ -1,0 +1,53 @@
+body{
+  background-color: #A4BE7B;
+}
+h1{
+  display: inline-block;
+  color: #CFB997;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+img{
+  width:40px;
+  border-radius: 15px;
+}
+.btn:hover{
+  background-color: #9DC08B;
+}
+.btn{
+  background-color: #A4BE7B;
+  margin-bottom: 5%;
+}
+
+.flagGeo{
+  width: 45px;
+  display: inline-block;
+  border-radius: 15px;
+
+
+}
+.main {
+  background-color: #61764B;
+  text-align: center;
+  margin-top: 10%;
+  margin-left: 35%;
+  margin-right: 35%;
+  border-radius: 20px;
+}
+
+.form-control{
+  width: 50%;
+  display: inline-block;
+  margin-left: 2%;
+}
+.elements{
+  margin-top: 5%;
+  margin-right: 30%;;
+  display: inline-block;
+  margin-bottom: 5%;
+}
+.elements2{
+
+  display: inline-block;
+
+}
